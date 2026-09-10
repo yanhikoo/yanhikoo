@@ -1,16 +1,14 @@
-# Hi, I'm Hiko 👋🏼
+```fish
+$ hiko --status
 
-I've been following [Nondeterministic_programming](https://en.wikipedia.org/wiki/Nondeterministic_programming), RLVR(Reinforcement Learning with Verifiable Rewards), Effective Skill Engineering recently.
+building:
+  K1    relationship-first knowledge language
+  E1    one-step environment manager
+  FUI   headless WeApp UI
 
-### Projects 📌
-
- - [**placeholder**]()
-
-<details>
-<summary><b>Timeline</b></summary>
-
-| Year | Milestone |
-|------|-----------|
-| 2026 | Built **stack** which unleash productivity in my core work. |
-
-</details>
+exploring:
+  nondeterministic programming
+  RLVR
+  effective skill engineering
+  Rust × AI Infra
+```
